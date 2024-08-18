@@ -36,4 +36,6 @@ Bir React uygulaması olan Product List App, ürünlerin listelendiği ve kullan
 - SCSS
 - Javascript
 
+https://github.com/user-attachments/assets/0deb1dec-30d9-48aa-a295-bf0520d19a53
+
 [Live](https://fy-product-list.netlify.app/)
