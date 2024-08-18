@@ -1,0 +1,13 @@
+// App.scss
+
+@import "./scss/reset";
+@import "./scss/mixins";
+@import "./scss/variables";
+
+body {
+  background-image: linear-gradient(to top, #ff9a8b 0%, #ffded7 100%);
+  min-height: 100vh;
+}
+
+
+
